@@ -43,6 +43,7 @@ export default /*#__PURE__*/{
 
 <template>
   <div class="fahad-lib-sample">
+    <h1>Fahad Ameen</h1>
     <p>The counter was {{ changedBy }} to <b>{{ counter }}</b>.</p>
     <button @click="increment">
       Click +1
