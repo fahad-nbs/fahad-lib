@@ -1,6 +1,6 @@
 {
   "name": "fahad-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/fahad-lib.ssr.js",
   "browser": "dist/fahad-lib.esm.js",
